@@ -42,6 +42,7 @@ My favourite colours (right now):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40" />
  </p>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachiey%2FRachiey%2F&label=Robots&countColor=%2363b96e&style=flat-square)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachiey&show_icons=true&theme=tokyonight)
 
