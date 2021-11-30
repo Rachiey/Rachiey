@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img alt="totoro and friends" src=https://i.pinimg.com/originals/7f/cf/37/7fcf37c760d468cdbd546c0c1d6680c8.gif width="60" height="60">&nbsp;&nbsp;<img alt="rilakkuma" src=https://cdn2.scratch.mit.edu/get_image/user/9775728_60x60.png width="40" height="40">&nbsp;<img alt="soot" src=https://64.media.tumblr.com/067834de51d1d3f8487fcef4a000a83c/tumblr_pqycmebgro1rs9hk0o1_500.gif width="50" height="50">&nbsp;<img alt="isabelle" src=https://64.media.tumblr.com/a43cf05b798139c3b03d8242a14fe441/tumblr_pq0t2m4FlP1wb3j66o1_540.gifv width="50" height="50">&nbsp;<img alt="magikarp" src=https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif width="50" height="50"><img alt="luffy" src= https://www.icegif.com/wp-content/uploads/luffy-icegif-25.gif width="80" height="80"> 
+ <img alt="totoro and friends" src=https://i.pinimg.com/originals/7f/cf/37/7fcf37c760d468cdbd546c0c1d6680c8.gif width="60" height="60">&nbsp;<img alt="soot" src=https://64.media.tumblr.com/067834de51d1d3f8487fcef4a000a83c/tumblr_pqycmebgro1rs9hk0o1_500.gif width="50" height="50">&nbsp;<img alt="isabelle" src=https://64.media.tumblr.com/a43cf05b798139c3b03d8242a14fe441/tumblr_pq0t2m4FlP1wb3j66o1_540.gifv width="50" height="50">&nbsp;<img alt="magikarp" src=https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif width="50" height="50"><img alt="luffy" src= https://www.icegif.com/wp-content/uploads/luffy-icegif-25.gif width="80" height="80"> 
 </p>
 
 
