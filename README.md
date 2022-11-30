@@ -10,7 +10,7 @@
 
 
 
-*Hello!* I'm Rachael. I love art; especially futuristic cities, imaginary cityscapes and isometric art. Currently trying to sharpen my skills in front-end dev, hoping to expand more into this field as I progress.
+Hi I'm Rachael. Try to be as creative as possible. Currently trying to sharpen my skills in front-end dev, hoping to expand more into this field as I progress.
 
 - 👩‍💻 BA Digital Culture - King's College London 
 
@@ -28,10 +28,6 @@
          width="50" height="50"> </a>
                                
 
-My favourite colours (right now):
-- ![#63B96E](https://via.placeholder.com/15/63B96E/000000?text=+) `#63B96E`
-- ![#24A0FF](https://via.placeholder.com/15/24A0FF/000000?text=+) `#24A0FF`
-- ![#C9B5FE](https://via.placeholder.com/15/C9B5FE/000000?text=+) `#C9B5FE `
 ### Currently working with:
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  </p>
