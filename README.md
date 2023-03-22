@@ -16,8 +16,6 @@ Hi I'm Rachael. Try to be as creative as possible. Currently trying to sharpen m
 
 - :apple: :tangerine: :cherries: :peach: :pear: Animal Crossing Enthusiast
 
-- 🧋 Bubble Tea Connoisseur
-
 - :bear: :hatched_chick: Rilakkuma Collector 
 
 - :movie_camera: Cinema Lover
