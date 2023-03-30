@@ -10,7 +10,7 @@
 
 
 
-Hi I'm Rachael. Try to be as creative as possible. Currently trying to sharpen my skills in front-end dev, hoping to expand more into this field as I progress.
+Hi I'm Rachael. Currently trying to sharpen my skills in front-end. 
 
 - 👩‍💻 BA Digital Culture - King's College London 
 
