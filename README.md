@@ -10,9 +10,9 @@
 
 
 
-Hi I'm Rachael. Systems Engineer. Creative. Constantly trying to better myself at a range of technologies!
+Hi I'm Rachael. Software Engineer. Creative. Constantly trying to better myself at a range of technologies!
 
-- La Fosse Academy Tech Graduate
+- Cirium Software Engineer
 
 - 👩‍💻 BA Digital Culture - King's College London 
 
